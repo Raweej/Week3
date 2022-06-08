@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'split': "linear-gradient(to bottom, #0C1831 0% , #0C1831 40% , #ECF2FF 40%, #ECF2FF 100%);"
+        'split': "linear-gradient(to bottom, #0C1831 0% , #0C1831 400px , #ECF2FF 0, #ECF2FF 100%)"
       },
       screens: {
         ss: '350px',
